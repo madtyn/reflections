@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was helpful because it saves much time and focuses only on the lines with differences.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It may show you your frequent mistakes as well as your best improvements and solutions made to your code. You can learn from that.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The main advantage is that it's easier navigating among all commits for detecting how and when some change was made. The bad thing is that many times is a human decision with a non specific way to determine how many changes include and when to do it, so I suppose there's always a better way to do it. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because version control systems are specially focused on solving problems about changes on files related among themselves. So, a change in one file can affect another ones. Also, adding this feature (tracking all files together and comitting them together) has no disavantadge. You can always manually commit files individually.  
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log allows me to track the files and find when a specific change was made. git diff allows me to find which were the changes made between two commits. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because if I break something I can move back just to the momento where I did the bad change and solve it, or just begin again from a safepoint.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use it in my development projects for controlling all changes made on the code along its history.
