@@ -15,6 +15,8 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When adding some new feature, fixing a bug or just doing some work in parallel with others branches are great tools. They allow to work switching between the branch and master and comparing both.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
