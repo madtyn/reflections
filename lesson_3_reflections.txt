@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate by committing my changes to the upstream repo when it's safe and updating my local repo from upstream. Also I would use pull requests for suggesting changes in other branches to my mates. Without an "origin" repo or upstream repo, any collaboration would be much harder.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
