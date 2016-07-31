@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You can work offline. Also you have all the complete history of changes made in other repo for coming back to rebuild the commits history from the early beginning
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
